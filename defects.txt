@@ -7,6 +7,7 @@
 <img class="center animated rollIn" src="IMG_20210504_121934.jpg" alt="avatar"/>
 </div>
 3. Заменена ссылка <p class="location" align="center"> на более корректную <div style="text-align:center;">  
+4. В строке допущена ошибка в команде  <a href="html/cmd.html">Командная строка Windos</a> вместо Windows
 
 Файл cmd.html. 
 1. Исправлено описание команды DATE - теперь корректно указывает, что команда устанавливает дату.
