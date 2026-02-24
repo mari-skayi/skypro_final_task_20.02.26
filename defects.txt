@@ -2,7 +2,10 @@
 
 Файл index.html.
 1. Лишний пробел в подвале страницы. Сейчас "202 4", а должно быть "2024".
-2. ...
+2. Заменена ссылка <center><img class="center animated rollIn" src="IMG_20210504_121934.jpg" alt="avatar"></center> на 
+<div style="text-align:center;">
+<img class="center animated rollIn" src="IMG_20210504_121934.jpg" alt="avatar"/>
+</div>
 3. ...
 4. ...
 
