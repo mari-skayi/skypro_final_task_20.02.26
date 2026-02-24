@@ -6,8 +6,7 @@
 <div style="text-align:center;">
 <img class="center animated rollIn" src="IMG_20210504_121934.jpg" alt="avatar"/>
 </div>
-3. ...
-4. ...
+3. Заменена ссылка <p class="location" align="center"> на более корректную <div style="text-align:center;">  
 
 Файл cmd.html. 
 1. Исправлено описание команды DATE - теперь корректно указывает, что команда устанавливает дату.
